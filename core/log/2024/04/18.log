@@ -1,0 +1,725 @@
+Error || 18-04-2024 08:34:56 || Uncaught TypeError: getConnection(): Return value must be of type array, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:62
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): getConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:62
+Error || 18-04-2024 08:35:13 || Uncaught TypeError: getConnection(): Return value must be of type array, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:62
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): getConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:62
+Error || 18-04-2024 08:41:50 || Uncaught TypeError: getConnection(): Return value must be of type array, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:64
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): getConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:64
+Error || 18-04-2024 08:57:22 || Uncaught TypeError: tryGetConnection(): Argument #2 ($connection) must be of type array, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 32 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:73
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:73
+Error || 18-04-2024 08:57:24 || Uncaught TypeError: tryGetConnection(): Argument #2 ($connection) must be of type array, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 32 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:73
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:73
+Error || 18-04-2024 08:57:51 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Error || 18-04-2024 08:58:40 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Error || 18-04-2024 08:58:41 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Error || 18-04-2024 08:58:41 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Error || 18-04-2024 08:58:42 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Error || 18-04-2024 08:58:54 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:86
+Error || 18-04-2024 08:59:08 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Error || 18-04-2024 08:59:38 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Error || 18-04-2024 08:59:56 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Error || 18-04-2024 09:00:10 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Error || 18-04-2024 09:00:41 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Error || 18-04-2024 09:00:42 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Error || 18-04-2024 09:00:42 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:87
+Error || 18-04-2024 09:00:46 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:85
+Error || 18-04-2024 09:04:12 || Uncaught TypeError: tryGetConnection(): Return value must be of type bool, none returned in C:\OSPanel\domains\ud.marketing\lib\database.php:90
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(32): tryGetConnection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:90
+Error || 18-04-2024 09:16:03 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:29
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(29): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:19:24 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:29
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(29): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:19:39 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:29
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(29): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:19:42 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:29
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(29): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:30:51 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:29
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(29): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:31:02 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('79999999999', '' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:29
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(29): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:32:34 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:55
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(55): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:32:35 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:55
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(55): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:32:36 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:55
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(55): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:32:36 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:55
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(55): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:35:02 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:36:34 || PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:37:58 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES (500000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:37:59 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES (500000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:37:59 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES (500000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:41:49 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES (500000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:42:10 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:42:11 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:42:11 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:42:11 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:45:30 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:53:25 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES (?, ?, ' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:53:26 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES (?, ?, ' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:53:28 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:53:33 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:54:10 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('79999999999', '' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:54:13 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (utmSource, utmMedium, domen, city, isAuto) VALUES ('test', 'test', 'test.t' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:54:53 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:58:11 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead SET `bitrixId` = '500000'`phone` = '79999999999'`utmSource` = 'test'`utmMed' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:56
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(56): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 09:58:21 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead SET `bitrixId` = '500000' `phone` = '79999999999' `utmSource` = 'test' `utm' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:56
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(56): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:02:54 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' SET 'bitrixId' = '500000' 'phone' = '79999999999' 'utmSource' = 'test' 'u' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:56
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(56): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:02:55 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' SET 'bitrixId' = '500000' 'phone' = '79999999999' 'utmSource' = 'test' 'u' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:56
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(56): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:04:40 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, PDOStatement given, called in C:\OSPanel\domains\ud.marketing\lib\database.php on line 54 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(54): debug()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 10:04:40 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, PDOStatement given, called in C:\OSPanel\domains\ud.marketing\lib\database.php on line 54 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(54): debug()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 10:04:50 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:15:58 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:19:26 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:19:26 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 10:28:14 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 11:41:42 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 11:51:01 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'lead (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('50000' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 12:11:55 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' (bitrixId, phone, utmSource, utmMedium, domen, city, isAuto) VALUES ('500' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 12:12:29 || PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 12:12:43 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' ('bitrixId', 'phone', 'utmSource', 'utmMedium', 'domen', 'city', 'isAuto)' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 12:12:56 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' ('bitrixId', 'phone', 'utmSource', 'utmMedium', 'domen', 'city', 'isAuto)' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 12:14:17 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' ('bitrixId', 'phone', 'utmSource', 'utmMedium', 'domen', 'city', 'isAuto'' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(45): insertData()
+#2 {main}
+Error || 18-04-2024 12:24:58 || Uncaught InvalidArgumentException: All values must be scalar in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(53): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Error || 18-04-2024 12:25:01 || Uncaught InvalidArgumentException: All values must be scalar in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(53): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Error || 18-04-2024 12:25:01 || Uncaught InvalidArgumentException: All values must be scalar in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(53): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Error || 18-04-2024 12:25:02 || Uncaught InvalidArgumentException: All values must be scalar in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(53): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:42
+Error || 18-04-2024 12:25:18 || PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''lead' ('id', 'bitrixId', 'phone', 'registeredId', 'dateCreate', 'utmSource', 'u' at line 1 in C:\OSPanel\domains\ud.marketing\lib\database.php:57
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(57): PDOStatement->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(53): insertData()
+#2 {main}
+Error || 18-04-2024 12:32:20 || Uncaught TypeError: checkForInjection(): Argument #2 ($conn) must be of type PDO, mysqli given, called in C:\OSPanel\domains\ud.marketing\index.php on line 69 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(69): checkForInjection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:3
+Error || 18-04-2024 13:52:39 || [2] Undefined array key "title" in C:\OSPanel\domains\ud.marketing\index.php:38
+Error || 18-04-2024 13:52:39 || [2] Undefined array key "phone" in C:\OSPanel\domains\ud.marketing\index.php:39
+Error || 18-04-2024 13:52:39 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:65
+Error || 18-04-2024 13:52:39 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 65 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(65): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 13:53:10 || [2] Undefined array key "title" in C:\OSPanel\domains\ud.marketing\index.php:38
+Error || 18-04-2024 13:53:10 || [2] Undefined array key "phone" in C:\OSPanel\domains\ud.marketing\index.php:39
+Error || 18-04-2024 13:53:10 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:65
+Error || 18-04-2024 13:53:10 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 65 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(65): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 13:54:04 || [2] Undefined array key "title" in C:\OSPanel\domains\ud.marketing\index.php:38
+Error || 18-04-2024 13:54:04 || [2] Undefined array key "phone" in C:\OSPanel\domains\ud.marketing\index.php:39
+Error || 18-04-2024 13:54:04 || Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::sendMessage() in C:\OSPanel\domains\ud.marketing\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\index.php:61
+Error || 18-04-2024 13:58:09 || [2] Undefined array key "title" in C:\OSPanel\domains\ud.marketing\index.php:38
+Error || 18-04-2024 13:58:09 || [2] Undefined array key "phone" in C:\OSPanel\domains\ud.marketing\index.php:39
+Error || 18-04-2024 13:58:09 || Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::sendMessage() in C:\OSPanel\domains\ud.marketing\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\index.php:61
+Error || 18-04-2024 13:58:12 || [2] Undefined array key "title" in C:\OSPanel\domains\ud.marketing\index.php:38
+Error || 18-04-2024 13:58:12 || [2] Undefined array key "phone" in C:\OSPanel\domains\ud.marketing\index.php:39
+Error || 18-04-2024 13:58:12 || Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::sendMessage() in C:\OSPanel\domains\ud.marketing\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\index.php:61
+Error || 18-04-2024 13:58:19 || [2] Undefined array key "title" in C:\OSPanel\domains\ud.marketing\index.php:38
+Error || 18-04-2024 13:58:19 || [2] Undefined array key "phone" in C:\OSPanel\domains\ud.marketing\index.php:39
+Error || 18-04-2024 13:58:19 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:65
+Error || 18-04-2024 13:58:19 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 65 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(65): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:02:56 || [2] Undefined variable $request in C:\OSPanel\domains\ud.marketing\index.php:15
+Error || 18-04-2024 14:02:56 || Uncaught TypeError: isJson(): Argument #1 ($string) must be of type string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 15 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:9
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(15): isJson()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:9
+Error || 18-04-2024 14:03:27 || [2] Undefined variable $request in C:\OSPanel\domains\ud.marketing\index.php:15
+Error || 18-04-2024 14:03:27 || Uncaught TypeError: isJson(): Argument #1 ($string) must be of type string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 15 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:9
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(15): isJson()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:9
+Error || 18-04-2024 14:04:01 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:67
+Error || 18-04-2024 14:04:01 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 67 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(67): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:04:25 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:67
+Error || 18-04-2024 14:04:25 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 67 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(67): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:04:43 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:66
+Error || 18-04-2024 14:04:43 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 66 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(66): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:05:13 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 14:05:13 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 62 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(62): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:05:47 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 14:05:47 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 62 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(62): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:07:01 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:61
+Error || 18-04-2024 14:07:01 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 61 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(61): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 14:07:21 || [2] Undefined variable $connection in C:\OSPanel\domains\ud.marketing\index.php:61
+Error || 18-04-2024 14:07:21 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 61 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(61): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:31:23 || Uncaught TypeError: checkForInjection(): Argument #2 ($conn) must be of type PDO, mysqli given, called in C:\OSPanel\domains\ud.marketing\index.php on line 42 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(42): checkForInjection()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:3
+Error || 18-04-2024 15:31:35 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:74
+Error || 18-04-2024 15:31:35 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:74
+Error || 18-04-2024 15:31:36 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(106): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:33:45 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:59
+Error || 18-04-2024 15:33:45 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:59
+Error || 18-04-2024 15:33:46 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(101): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:34:40 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:60
+Error || 18-04-2024 15:34:40 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:60
+Error || 18-04-2024 15:34:42 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(103): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:35:53 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:35:53 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:35:56 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(105): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:41:27 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:41:27 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:41:29 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(107): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:42:29 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:42:29 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:42:31 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(107): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:43:20 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:43:20 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:43:21 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:43:21 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:43:21 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(108): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:47:18 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:47:18 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:47:19 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:47:19 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:47:19 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(108): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:48:04 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:04 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:05 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:48:05 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:48:05 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(109): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:48:20 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:20 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:21 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:48:21 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:48:21 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:107
+Error || 18-04-2024 15:48:21 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:107
+Error || 18-04-2024 15:48:21 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 107 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(107): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:48:30 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:30 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:31 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:48:31 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:48:31 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:107
+Error || 18-04-2024 15:48:31 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:107
+Error || 18-04-2024 15:48:31 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(109): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:48:59 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:48:59 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:01 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:49:01 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:49:01 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:107
+Error || 18-04-2024 15:49:01 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 107 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(107): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:31 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:31 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:31 || [2] Undefined variable $bitrixLead in C:\OSPanel\domains\ud.marketing\index.php:77
+Error || 18-04-2024 15:49:31 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 77 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(77): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:33 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:33 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:33 || [2] Undefined variable $bitrixLead in C:\OSPanel\domains\ud.marketing\index.php:77
+Error || 18-04-2024 15:49:33 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 77 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(77): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:34 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:34 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:34 || [2] Undefined variable $bitrixLead in C:\OSPanel\domains\ud.marketing\index.php:77
+Error || 18-04-2024 15:49:34 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 77 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(77): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:35 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:35 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:35 || [2] Undefined variable $bitrixLead in C:\OSPanel\domains\ud.marketing\index.php:77
+Error || 18-04-2024 15:49:35 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 77 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(77): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:36 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:36 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:36 || [2] Undefined variable $bitrixLead in C:\OSPanel\domains\ud.marketing\index.php:77
+Error || 18-04-2024 15:49:36 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 77 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(77): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:36 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:36 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:36 || [2] Undefined variable $bitrixLead in C:\OSPanel\domains\ud.marketing\index.php:77
+Error || 18-04-2024 15:49:36 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 77 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(77): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:49:47 || [2] Undefined variable $citiesBxIds in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:47 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:62
+Error || 18-04-2024 15:49:47 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:49:47 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:104
+Error || 18-04-2024 15:49:47 || [2] Undefined variable $citiesNames in C:\OSPanel\domains\ud.marketing\index.php:107
+Error || 18-04-2024 15:49:47 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 107 and defined in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(107): debug()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\debug.php:3
+Error || 18-04-2024 15:50:15 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(121): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:50:54 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(120): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:51:58 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(120): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:52:20 || Uncaught Error: Call to a member function bind_param() on bool in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(120): insertData()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:25
+Error || 18-04-2024 15:53:53 || mysqli_sql_exception: Unknown column 'utm_source' in 'field list' in C:\OSPanel\domains\ud.marketing\lib\database.php:22
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(22): mysqli->prepare()
+#1 C:\OSPanel\domains\ud.marketing\index.php(120): insertData()
+#2 {main}
+Error || 18-04-2024 15:53:53 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:136
+Error || 18-04-2024 15:53:53 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 136 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(136): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Error || 18-04-2024 15:54:17 || mysqli_sql_exception: Field 'bitrixId' doesn't have a default value in C:\OSPanel\domains\ud.marketing\lib\database.php:30
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(30): mysqli_stmt->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(120): insertData()
+#2 {main}
+Error || 18-04-2024 15:54:17 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:136
+Error || 18-04-2024 15:54:17 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 136 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(136): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Error || 18-04-2024 15:54:38 || mysqli_sql_exception: Field 'domen' doesn't have a default value in C:\OSPanel\domains\ud.marketing\lib\database.php:30
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\lib\database.php(30): mysqli_stmt->execute()
+#1 C:\OSPanel\domains\ud.marketing\index.php(122): insertData()
+#2 {main}
+Error || 18-04-2024 15:54:38 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:138
+Error || 18-04-2024 15:54:38 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 138 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(138): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Error || 18-04-2024 15:55:11 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:139
+Error || 18-04-2024 15:55:11 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 139 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(139): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:66
+Error || 18-04-2024 15:55:49 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:139
+Error || 18-04-2024 15:55:49 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 139 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(139): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Error || 18-04-2024 15:57:33 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:139
+Error || 18-04-2024 15:57:33 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 139 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(139): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Error || 18-04-2024 15:58:11 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:142
+Error || 18-04-2024 15:58:11 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 142 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(142): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Error || 18-04-2024 15:58:30 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:140
+Error || 18-04-2024 15:58:30 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 140 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(140): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Error || 18-04-2024 15:58:43 || [2] Undefined array key "telegramId" in C:\OSPanel\domains\ud.marketing\index.php:142
+Error || 18-04-2024 15:58:43 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 142 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(142): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Error || 18-04-2024 15:58:57 || [2] Undefined array key 0 in C:\OSPanel\domains\ud.marketing\index.php:143
+Error || 18-04-2024 15:58:57 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:143
+Error || 18-04-2024 15:58:57 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 143 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(143): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Error || 18-04-2024 15:59:29 || [2] Undefined array key 0 in C:\OSPanel\domains\ud.marketing\index.php:143
+Error || 18-04-2024 15:59:29 || [2] Trying to access array offset on value of type null in C:\OSPanel\domains\ud.marketing\index.php:143
+Error || 18-04-2024 15:59:29 || Uncaught TypeError: readDataById(): Argument #1 ($id) must be of type int, null given, called in C:\OSPanel\domains\ud.marketing\index.php on line 143 and defined in C:\OSPanel\domains\ud.marketing\lib\database.php:65
+Stack trace:
+#0 C:\OSPanel\domains\ud.marketing\index.php(143): readDataById()
+#1 {main}
+  thrown in C:\OSPanel\domains\ud.marketing\lib\database.php:65

@@ -1,0 +1,17 @@
+{
+    "name": "diogen/ud_marketing",
+    "autoload": {
+        "psr-4": {
+            "Diogen\\UdMarketing\\": "app/"
+        },
+        "files": [
+            "config/init.php",
+            "lib/database.php",
+            "lib/debug.php",
+            "lib/crest.php"
+        ]
+    },
+    "require": {
+        "longman/telegram-bot": "^0.82.0"
+    }
+}
