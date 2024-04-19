@@ -49,13 +49,6 @@ catch(Exception $e)
     errorLog($e);
 }
 
-// if (checkForInjection($_POST, $conn) === false)
-// {
-
-//     throw new Exception('Invalid request(' . json_encode($_POST) . ')', 423);
-// }
-
-
 // Битрикс
 try 
 {
@@ -118,8 +111,6 @@ try
 
     $data['city'] = (isset($_POST['city'])) ? $citiesNames[$_POST['city']] : null;
 
-    debug($data);
-
     insertData($conn, $data, 'lead');
 }
 catch(Exception $e)
@@ -153,6 +144,14 @@ try
         
         if ($utmSource != null)
             $message .= "utm_source: " . $utmSource . "\n";
+
+        foreach($_POST as $key => $value) 
+        {
+            if (str_contains($key, 'question') == false)
+                continue;
+
+            $message .= "  -$value\n";
+        }
 
         $data = 
         [

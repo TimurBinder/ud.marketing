@@ -1,6 +1,6 @@
 <?php
 
-function checkForInjection(array $data, PDO $conn): bool
+function checkForInjection(array $data): bool
 {   
     $pattern = '/^[a-zA-Z0-9_\-]+$/';
     $result = true;
@@ -9,6 +9,29 @@ function checkForInjection(array $data, PDO $conn): bool
         $result = (bool)preg_match($pattern, $item);
 
     return $result;
+}
+
+function tryGetTable(mysqli $conn, array|null &$table, string $tableName): bool
+{
+    $sql = "SELECT * FROM $tableName";
+    $result = $conn->query($sql);
+
+    if ($result->num_rows > 0) {
+        $table = array();
+        $headers = array();
+        $headers[] = 'ID';
+        $headers = array_merge($headers, $result->fetch_fields());
+
+        while ($row = $result->fetch_assoc()) {
+            $table[] = $row;
+        }
+
+        $table = array('headers' => $headers, 'rows' => $table);
+        return true;
+    } else {
+        $table = null;
+        return false;
+    }
 }
 
 function insertData(mysqli $conn, array $data, string $table): void
