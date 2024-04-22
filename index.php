@@ -68,18 +68,16 @@ try
             ]
         ];
 
-        $data['UTM_SOURCE'] = (isset($_POST['utm_source'])) ? $_POST['utm_source'] : '';
-        $data['UTM_MEDIUM'] = (isset($_POST['utm_medium'])) ? $_POST['utm_medium'] : '';
-        $data['UTM_CONTENT'] = (isset($_POST['utm_content'])) ? $_POST['utm_content'] : '';
-        $data['UTM_CAMPAIGN'] = (isset($_POST['utm_campaign'])) ? $_POST['utm_campaign'] : '';
-        $data['UTM_TERM'] = (isset($_POST['utm_term'])) ? $_POST['utm_term'] : '';
+        $data['fields']['UTM_SOURCE'] = (isset($_POST['utm_source'])) ? $_POST['utm_source'] : '';
+        $data['fields']['UTM_MEDIUM'] = (isset($_POST['utm_medium'])) ? $_POST['utm_medium'] : '';
+        $data['fields']['UTM_CONTENT'] = (isset($_POST['utm_content'])) ? $_POST['utm_content'] : '';
+        $data['fields']['UTM_CAMPAIGN'] = (isset($_POST['utm_campaign'])) ? $_POST['utm_campaign'] : '';
+        $data['fields']['UTM_TERM'] = (isset($_POST['utm_term'])) ? $_POST['utm_term'] : '';
 
-        // $bitrixLead = CRest::call(
-        //     'crm.lead.add',
-        //     $data
-        // );
-
-        // debug($bitrixLead);
+        $bitrixLead = CRest::call(
+            'crm.lead.add',
+            $data
+        );
     }
 } 
 catch(Exception $e) 
@@ -92,8 +90,6 @@ catch(Exception $e)
 try 
 {
     $isAuto = (isset($_POST['dmp'])) ? 1 : 0;
-
-    $bitrixLead['result'] = 1;
 
     $data = 
     [
@@ -110,7 +106,7 @@ try
     $data['domen'] = (isset($_POST['domen'])) ? $_POST['domen'] : null;
 
     $data['city'] = (isset($_POST['city'])) ? $citiesNames[$_POST['city']] : null;
-
+    debug($data);
     insertData($conn, $data, 'lead');
 }
 catch(Exception $e)
@@ -123,7 +119,7 @@ catch(Exception $e)
 try 
 {
     if ($_POST['source'] == 'website') {
-        $utmSource = (isset($_POST['utm_source'])) ? $_POST['utm_source'] : null;
+        $utmSource = isset($_POST['utm_source']) ? $_POST['utm_source'] : null;
         $message = "";
         
         if (tryGetConnection($conn, $connection, $_POST['domen'], $utmSource))
@@ -142,7 +138,7 @@ try
         $message .= "Телефон: " . $_POST['phone'] . "\n";
         $message .= "Сайт: " . $_POST['domen'] . "\n";
         
-        if ($utmSource != null)
+        if ($utmSource != null && $utmSource != $_POST['domen'])
             $message .= "utm_source: " . $utmSource . "\n";
 
         foreach($_POST as $key => $value) 
@@ -159,7 +155,8 @@ try
             'text' => $message
         ];
 
-        Request::sendMessage($data);
+        $result = Request::sendMessage($data);
+        debug($result);
     }
 }
 catch(Exception $e)

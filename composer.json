@@ -8,7 +8,8 @@
             "config/init.php",
             "lib/database.php",
             "lib/debug.php",
-            "lib/crest.php"
+            "lib/crest.php",
+            "lib/tools.php"
         ]
     },
     "require": {

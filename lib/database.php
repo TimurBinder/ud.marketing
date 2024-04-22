@@ -47,8 +47,6 @@ function insertData(mysqli $conn, array $data, string $table): void
     // Привязка значений к параметрам
     $stmt->bind_param(str_repeat("s", count($columnValues)), ...$columnValues);
 
-    debug($stmt->get_result());
-
     // Выполнение SQL-запроса
     if ($stmt->execute()) {
     } else {

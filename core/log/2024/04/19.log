@@ -1,0 +1,138 @@
+Error || 19-04-2024 08:56:37 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:53
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(53): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(110): insertData()
+#2 {main}
+Error || 19-04-2024 09:06:38 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:53
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(53): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(110): insertData()
+#2 {main}
+Error || 19-04-2024 09:18:27 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:53
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(53): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(110): insertData()
+#2 {main}
+Error || 19-04-2024 09:20:12 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:53
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(53): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(110): insertData()
+#2 {main}
+Error || 19-04-2024 09:21:49 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, mysqli_stmt given, called in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php on line 50 and defined in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/debug.php:3
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(50): debug()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+  thrown in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/debug.php:3
+Error || 19-04-2024 09:26:51 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, mysqli_stmt given, called in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php on line 50 and defined in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/debug.php:3
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(50): debug()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+  thrown in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/debug.php:3
+Error || 19-04-2024 09:28:21 || Uncaught TypeError: debug(): Argument #1 ($array) must be of type array|string, mysqli_stmt given, called in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php on line 50 and defined in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/debug.php:3
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(50): debug()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+  thrown in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/debug.php:3
+Error || 19-04-2024 09:37:57 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 10:46:13 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 10:46:15 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 10:46:15 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 10:46:17 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 11:05:40 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 12:07:08 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 12:33:12 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 13:07:45 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 13:24:58 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 13:25:01 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 13:25:04 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 14:35:27 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 14:35:33 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 16:33:30 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 17:13:50 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 17:13:56 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 20:29:04 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 20:35:48 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 19-04-2024 20:35:55 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}

@@ -1,0 +1,30 @@
+Error || 21-04-2024 01:57:31 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 21-04-2024 02:44:11 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 21-04-2024 02:44:14 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 21-04-2024 04:09:48 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 21-04-2024 23:42:30 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
+Error || 21-04-2024 23:42:52 || mysqli_sql_exception: Column 'phone' cannot be null in /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php:51
+Stack trace:
+#0 /home/users/j/j62432737/domains/data.tech-ud72.ru/lib/database.php(51): mysqli_stmt->execute()
+#1 /home/users/j/j62432737/domains/data.tech-ud72.ru/index.php(112): insertData()
+#2 {main}
